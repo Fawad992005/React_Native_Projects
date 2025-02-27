@@ -13,18 +13,30 @@ This repository contains a collection of **React Native learning projects** that
 
 ## 🚀 Getting Started
 
-### 1️⃣ Clone the Repository
+### 1 Clone the Repository
 
 ```sh
 git clone https://github.com/your-username/React_Native_Projects.git
 cd React_Native_Projects
+```
 
+### 2 Install Dependencies
+
+```
 cd project-name
 npm install  # or yarn install
+```
 
+### 3 Run The App
 
+For Android:
+
+```
 npx react-native run-android
+```
 
+For iOS(Mac Only):
+
+```
 npx react-native run-ios
-
 ```
