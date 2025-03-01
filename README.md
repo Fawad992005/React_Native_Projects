@@ -6,7 +6,8 @@ This repository contains a collection of **React Native learning projects** that
 
 ## 📂 Projects Included
 
-1. **Password Generator1** - Generates Random Password which includes lowercase,uppercase letters,numbers and symbols
+1. **Password Generator1** - Generates Random Password which includes lowercase,uppercase letters,numbers and symbols.
+2. **Haptic_Feeback** - Haptic feedback in a React Native app provides tactile responses, enhancing user experience with vibrations for interactions.
    _(List all projects with brief descriptions)_
 
 ---
