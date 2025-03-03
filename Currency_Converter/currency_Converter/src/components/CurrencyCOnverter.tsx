@@ -23,8 +23,8 @@ const CurrencyConverter: React.FC = () => {
   const [convertedAmount, setConvertedAmount] = useState<string | null>(null);
   const [loading, setLoading] = useState<boolean>(false);
 
-  const API_KEY_Dev = 'dd6c8ceade62b5140af5f566';
-  const API_URL_Dev = `https://v6.exchangerate-api.com/v6/${API_KEY_Dev}/latest/${fromCurrency}`;
+  const API_KEY_Dev = '';
+  const API_URL_Dev = `${BASE_URL}/${API_KEY_Dev}/latest/${fromCurrency}`;
 
   useEffect(() => {
     fetchCurrencies();
