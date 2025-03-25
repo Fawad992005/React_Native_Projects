@@ -10,7 +10,9 @@ This repository contains a collection of **React Native learning projects** that
 2. **Haptic Feedback** - Haptic feedback in a React Native app provides tactile responses, enhancing user experience with vibrations for interactions.
 3. **Tic Tac Toe** - A Tic Tac Toe Game
 4. **Currency Converter** - A currency Converter App
-   _(List all projects with brief descriptions)_
+5. **Todo App** - A simple todo application with status ( Complete or Pending) for Tasks
+6. **Auth App** - A simple authentication using AppWrite
+7. **Navigation** - A simple react navigation learning project using Stack navigator
 
 ---
 
